@@ -7,6 +7,12 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <?php masterslider(1); ?>
+                    <br>
+                </div>
+            </div>
         
         <div class="row">    
         <?php
